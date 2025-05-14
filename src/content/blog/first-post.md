@@ -2,7 +2,7 @@
 title: 'Web Development with WordPress/PHP'
 description: 'How our team builds powerful websites.'
 pubDate: 'May 5, 2025'
-heroImage: '/wordpress.jpg'
+heroImage: '/wordpress.png'
 ---
 
 At Brand Technology, we specialize in creating stunning, high-performance websites using WordPress. Our team leverages the flexibility and power of WordPress to deliver custom solutions for businesses of all sizes.

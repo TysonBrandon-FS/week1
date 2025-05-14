@@ -2,7 +2,7 @@
 title: 'Social Media Management'
 description: 'Allow us to help you grow your business on social media.'
 pubDate: 'May 5, 2025'
-heroImage: '/socia.jpg'
+heroImage: '/social.png'
 ---
 
 Social media is a powerful tool for connecting with your audience and growing your brand. At Brand Technology, we help businesses create effective social media strategies that drive engagement and results.

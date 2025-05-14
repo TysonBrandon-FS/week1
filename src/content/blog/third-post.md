@@ -2,7 +2,7 @@
 title: 'Coding Classes for Kids'
 description: 'Brand Technologys fun and engaging programming classes for the next generation.'
 pubDate: 'May 5, 2025'
-heroImage: '/kids.jpg'
+heroImage: '/kids.png'
 ---
 
 At Brand Technology, we believe every child should have the opportunity to learn how to code. Our coding classes for kids are designed to be fun, interactive, and accessible for all ages and skill levels.
