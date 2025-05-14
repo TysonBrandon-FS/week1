@@ -1,6 +1,6 @@
 ---
 title: 'Coding Classes for Kids'
-description: 'Brand Technology's fun and engaging programming classes for the next generation.'
+description: 'Brand Technologys fun and engaging programming classes for the next generation.'
 pubDate: 'May 5, 2025'
 heroImage: '/blog-placeholder-2.jpg'
 ---
