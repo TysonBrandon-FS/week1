@@ -1,7 +1,7 @@
 ---
 title: 'Web Development with WordPress/PHP'
 description: 'How our team builds powerful websites.'
-pubDate: 'May 5th 2025'
+pubDate: 'May 5 2025'
 heroImage: '/blog-placeholder-3.jpg'
 ---
 

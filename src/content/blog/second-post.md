@@ -1,7 +1,7 @@
 ---
 title: 'Social Media Management Tips'
 description: 'Brand Technology shares expert advice for growing your business on social media.'
-pubDate: 'May 5th 2025'
+pubDate: 'May 5, 2025'
 heroImage: '/blog-placeholder-4.jpg'
 ---
 
