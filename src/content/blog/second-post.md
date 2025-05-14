@@ -1,6 +1,6 @@
 ---
-title: 'Social Media Management Tips'
-description: 'Brand Technology shares expert advice for growing your business on social media.'
+title: 'Social Media Management'
+description: 'Allow us to help you grow your business on social media.'
 pubDate: 'May 5, 2025'
 heroImage: '/blog-placeholder-4.jpg'
 ---
